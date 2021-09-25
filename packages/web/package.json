@@ -1,12 +1,12 @@
 {
   "name": "@codiechanel/web-demo",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "private": true,
   "publishConfig": {
     "access": "public"
- },
+  },
   "dependencies": {
-    "@codiechanel/common-demo": "^0.0.3",
+    "@codiechanel/common-demo": "^0.0.4",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
