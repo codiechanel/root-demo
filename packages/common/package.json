@@ -19,7 +19,7 @@
   },
   "scripts": {
     "lerna-prepub": "lerna run prepublish",
-    "learna-pub": "lerna publish",
+    "learna-pub": "lerna publish -- --access public",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
