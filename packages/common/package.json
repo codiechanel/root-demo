@@ -21,6 +21,7 @@
     "web-vitals": "^1.0.1"
   },
   "scripts": {
+    "from git": "lerna publish from-git",
     "lerna-prepub": "lerna run prepublish",
     "learna-pub": "lerna publish -- --access public",
     "start": "react-scripts start",
